@@ -1,2 +1,1 @@
-public static void main
-class mastro
+im gay
